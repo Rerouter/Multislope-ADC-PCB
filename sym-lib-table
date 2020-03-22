@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "High-Resolution-Multislope-converter-rev2-rescue")(type "Legacy")(uri "${KIPRJMOD}/High Resolution Multislope converter rev2-rescue.lib")(options "")(descr ""))
+  (lib (name "High-Resolution-Multislope-converter-modified-rev-2-rescue")(type "Legacy")(uri "${KIPRJMOD}/High Resolution Multislope converter-modified rev 2-rescue.lib")(options "")(descr ""))
+)
