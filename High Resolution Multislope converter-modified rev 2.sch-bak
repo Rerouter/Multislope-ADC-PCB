@@ -992,9 +992,7 @@ Wire Wire Line
 Wire Wire Line
 	10495 3075 10875 3075
 Wire Wire Line
-	10550 5425 10650 5350
-Wire Wire Line
-	10550 5850 10550 5425
+	10550 5650 10550 5850
 Wire Wire Line
 	10585 1860 10775 1860
 Wire Wire Line
@@ -1003,6 +1001,8 @@ Wire Wire Line
 	10585 2875 11000 2875
 Wire Wire Line
 	10650 5350 10500 5350
+Wire Wire Line
+	10650 5650 10550 5650
 Wire Wire Line
 	10650 5650 11025 5650
 Wire Wire Line

@@ -1,4 +1,4 @@
-update=23-Mar-20 6:33:59 AM
+update=23-Mar-20 11:26:53 PM
 version=1
 last_client=kicad
 [general]
@@ -13,6 +13,12 @@ version=1
 LibDir=
 [eeschema/libraries]
 [LibeditFrame]
+version=1
+[SchematicFrame]
+version=1
+[PcbFrame]
+version=1
+[ModEditFrame]
 version=1
 [schematic_editor]
 version=1
@@ -30,14 +36,8 @@ ERC_CheckBusDriverConflicts=1
 ERC_CheckBusEntryConflicts=1
 ERC_CheckBusToBusConflicts=1
 ERC_CheckBusToNetConflicts=1
-[SchematicFrame]
-version=1
-[PcbFrame]
-version=1
 [sheetnames]
-1=00000000-0000-0000-0000-00005e774b74:
-[ModEditFrame]
-version=1
+1=00000000-0000-0000-0000-00005e910c37:
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -107,7 +107,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.02
 SolderMaskMinWidth=0.09999999999999999
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
